@@ -1,0 +1,6 @@
+database.sql
+README.md
+.env
+.env.local
+.vercel/
+*.zip
